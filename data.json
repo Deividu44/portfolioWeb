@@ -1,0 +1,111 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Curso de desarrollo web Fullstack Open",
+      "entity": "Universidad de Helsinki",
+      "date": "05/2024 - En desarrollo",
+      "hours": 135,
+      "url_certificate": "https://studies.cs.helsinki.fi/stats/api/certificate/fullstackopen/en/6d2ae6c97407eba8413ae74693cd58c5"
+    },
+
+    {
+      "id": 2,
+      "title": "Curso de JavaScript web Moderno",
+      "entity": "Udemy",
+      "date": "01/2024 - 03/2024",
+      "hours": 53,
+      "url_certificate": "https://www.udemy.com/certificate/UC-090c043b-41fb-497b-887f-f59c170b5b60/"
+    },
+
+    {
+      "id": 3,
+      "title": "Curso de Angular 11: Ampliando conceptos",
+      "entity": "Open Webinars",
+      "date": "08/2024 - 08/2024",
+      "hours": 9,
+      "url_certificate": "https://openwebinars.net/cert/vAf0"
+    },
+
+    {
+      "id": 4,
+      "title": "Grado Superior Desarrollo de Aplicaciones Multiplataforma",
+      "entity": "CPIFP Los Enlaces",
+      "date": "09/2018 - 09/2020",
+      "hours": 2000,
+      "url_certificate": ""
+    }
+  ],
+  "skills": [
+    {
+      "title_skills": "Lenguajes de programación",
+      "languages": [
+        {
+          "name": "HTML 5",
+          "badge_url": "https://img.shields.io/badge/html5-%23E65100.svg?style=for-the-badge&logo=html5&logoColor=white&color=%23E65100"
+        },
+        {
+          "name": "CSS 3",
+          "badge_url": "https://img.shields.io/badge/css3-%23264de4.svg?style=for-the-badge&logo=css3&logoColor=white&color=%232965f1"
+        },
+        {
+          "name": "JavaScript",
+          "badge_url": "https://img.shields.io/badge/JavaScript-%23f0db4f.svg?style=for-the-badge&logo=javascript&logoColor=%23f0db4f&color=%23323330"
+        }
+      ]
+ 
+    },
+
+    {
+      "title_skills": "Frameworks y librerías",
+      "languages": [
+        {
+          "name": "React",
+          "badge_url": "https://img.shields.io/badge/React-%231c84bc.svg?style=for-the-badge&logo=react&logoColor=%2334a4dc&color=%231a2c3c"
+        },
+        {
+          "name": "Angular",
+          "badge_url": "https://img.shields.io/badge/Angular-%23d4173b.svg?style=for-the-badge&logo=angular&logoColor=white&color=%23d4173b"
+        },
+        {
+          "name": "Bootstrap",
+          "badge_url": "https://img.shields.io/badge/Bootstrap-%23d4173b.svg?style=for-the-badge&logo=bootstrap&logoColor=white&color=%23563d7c"
+        },
+        {
+          "name": "Tailwindcss",
+          "badge_url": "https://img.shields.io/badge/Tailwindcss-%252379c2fa.svg?style=for-the-badge&logo=tailwindcss&logoColor=white&color=%230fa4e8"
+        }
+      ]
+    },
+
+    {
+      "title_skills": "Entornos y herramientas software",
+      "languages": [
+        {
+          "name": "Visual Studio Code",
+          "badge_url": "https://img.shields.io/badge/Visual%20Studio%20Code-%252379c2fa.svg?style=for-the-badge&logo=visual&logoColor=white&color=%230078d7"
+        },
+        {
+          "name": "Github",
+          "badge_url": "https://img.shields.io/badge/Github-%2523414141.svg?style=for-the-badge&logo=github&logoColor=white&color=%23414141"
+        },
+        {
+          "name": "Node JS",
+          "badge_url": "https://img.shields.io/badge/Node%20JS-%252368a063.svg?style=for-the-badge&logo=nodedotjs&logoColor=%23303030&color=%2368a063"
+        },
+        {
+          "name": "Vite",
+          "badge_url": "https://img.shields.io/badge/Vite-%252368a063.svg?style=for-the-badge&logo=vite&logoColor=%23FBC02D&color=%239575CD"
+        },
+        {
+          "name": "Mongo DB",
+          "badge_url": "https://img.shields.io/badge/MongoDB-%252368a063.svg?style=for-the-badge&logo=mongodb&logoColor=%23689F38&color=%23100e0b"
+        },
+        {
+          "name": "Postman",
+          "badge_url": "https://img.shields.io/badge/Postman-%2523EF5B25.svg?style=for-the-badge&logo=postman&logoColor=white&color=EF5B25"
+        }
+      ]
+    }
+  ]
+}
