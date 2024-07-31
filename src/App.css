@@ -4,8 +4,16 @@
 }
 
 .index-style {
-  font-size: 1.5em;
+  font-size: 1.8em;
   color: #9b9af5;
+}
+
+.isCurrent {
+  font-weight: bold;
+}
+
+.isCurrent a {
+  color: #57ff3a;
 }
 
 .space_between {

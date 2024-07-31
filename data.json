@@ -1,4 +1,5 @@
 {
+  "menu": ["David", "sobre mí", "educación", "skills"],
   "courses": [
     {
       "id": 1,

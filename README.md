@@ -6,7 +6,7 @@
     - [✔] Comenzar con el apartado About
     - [✔] Comenzar con el apartado Educación
     - [✔] Apartado Skills
-    - [✔] Espacios entre apartados
+    - [] Espacios entre apartados
     - [] Crear apartado contacto
 
   **Otros requerimientos**
@@ -14,12 +14,14 @@
   - [✔] Escoger fuente
   - [] Opción en inglés?
   - [] Lo del navbar en el aside
-  - [] Broma hidden
+      https://getbootstrap.com/docs/5.0/components/scrollspy/#scrollspyHeading2
+  - [✔] Broma hidden
 
 
 #### Badges
 
 [Badge HTML](https://img.shields.io/badge/html5-%23E65100.svg?style=for-the-badge&logo=html5&logoColor=white&color=%23E65100)
+
 
 
 Colores: 
