@@ -2,12 +2,12 @@ import { Container } from 'react-bootstrap'
 import StaticBadge from './StaticBadge'
 
 function Skill ({ contentSkill }) {
-  const { title_skills, languages } = contentSkill
+  const { titleSkills, languages } = contentSkill
 
   return (
     <>
       <Container>
-        <h2 className='subtitle-content'>{title_skills}</h2>
+        <h2 className='subtitle-content'>{titleSkills}</h2>
       </Container>
       <Container className='skills-grid gap-5 text-content p-4'>
         {languages.map(lang => (

@@ -1,17 +1,18 @@
 function StaticBadge ({ information }) {
-  const { name, badge_url } = information
+  const { name, badgeUrl } = information
 
   return (
     <>
-      <a href={badge_url}>
+      <a href={badgeUrl} target='_blank' rel='noreferrer'>
         <img
           title={name}
           alt={`Logo de ${name}`}
           className='static-badge'
-          src={`${badge_url}`} />
+          src={`${badgeUrl}`}
+        />
       </a>
     </>
-  ) 
+  )
 }
 
 export default StaticBadge

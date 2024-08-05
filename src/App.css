@@ -17,7 +17,7 @@
 }
 
 .space_between {
-  margin-bottom: 15rem !important;
+  margin-bottom: 35% !important;
 }
 
 .highlight-fuxia {
@@ -77,4 +77,37 @@
   border: solid black 1px;
   border-radius: 2px;
   box-shadow: 3px 4px 3px 0px black;
+  transition: .5s;
+}
+
+.static-badge:hover {
+  width: 120%;
+  height: 45%;
+  box-shadow: -6px -4px 3px 0px black;
+}
+
+#mail {
+text-decoration: none;
+transition: .3s;
+}
+
+#mail:hover {
+  transition: .3s;
+  color: #ff3aaa;
+  text-decoration: none;
+}
+
+/* Icons */
+
+.standard-icon {
+  height: 5rem;
+  width: auto;
+  border-radius: 10px;
+}
+
+.carta-prueba {
+  width: 100%;
+  height: 25%;
+  background-color: black;
+  transform: rotate(1deg);
 }

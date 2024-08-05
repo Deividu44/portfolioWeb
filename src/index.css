@@ -1,10 +1,25 @@
 * {
   margin: 0;
   font-family: Consolas;
-  background-color: #272798;
-
 }
 
 body {
   position: relative;
+  background-color: #272798;
+}
+
+/* Scrollbar */
+
+::-webkit-scrollbar {
+  width: 10px;          
+}
+
+::-webkit-scrollbar-thumb {   
+ border-radius: 30px;
+ background: -webkit-gradient(linear,left top,left bottom,from(#6e54cc),to(#2d15b3));
+ box-shadow: inset 2px 2px 2px rgba(255,255,255,.25), inset -2px -2px 2px rgba(0,0,0,.25);}
+
+::-webkit-scrollbar-track {     
+ border-radius: 10px;
+ background: linear-gradient(to right,#201c2960,#201c295b 1px,#2911805e 1px,#5331cc);
 }

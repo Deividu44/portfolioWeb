@@ -1,19 +1,20 @@
 ## My Focking Portfolio
   **Tareas**
-    - [✔] Crear Aside fijo izquierda
-    - [✔] Darle estructura al Aside
-    - [] Comenzar con la presentación
-    - [✔] Comenzar con el apartado About
-    - [✔] Comenzar con el apartado Educación
-    - [✔] Apartado Skills
-    - [] Espacios entre apartados
-    - [] Crear apartado contacto
+
+   - [✔] Crear Aside fijo izquierda
+   - [✔] Darle estructura al Aside
+   - [] Comenzar con la presentación
+   - [✔] Comenzar con el apartado About
+   - [✔] Comenzar con el apartado Educación
+   - [✔] Apartado Skills
+   - [] Espacios entre apartados
+   - [] Crear apartado contacto
 
   **Otros requerimientos**
   - [✔] Escoger colores para los backgrounds
   - [✔] Escoger fuente
   - [] Opción en inglés?
-  - [] Lo del navbar en el aside
+  - [✔] Lo del navbar en el aside
       https://getbootstrap.com/docs/5.0/components/scrollspy/#scrollspyHeading2
   - [✔] Broma hidden
 
