@@ -3,7 +3,7 @@ import Hidden from './Hidden'
 function About () {
   return (
     <>
-      <h1 id='sobre mí' className='title-content'>Aquí va algo sobre <strong className='highlight-fuxia'>mí</strong>...</h1>
+      <h1 id='sobre mi' className='title-content'>Aquí va algo sobre <strong className='highlight-fuxia'>mí</strong>...</h1>
       <div className='mt-4'>
         <p className='fs-4 lh-sm text-content mb-5'>
           <Hidden />

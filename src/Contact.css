@@ -14,8 +14,6 @@ iframe {
   border: none !important;
 }
 
-
-
 .bg-contact100 {
   width: 100%;
   background-repeat: no-repeat;
@@ -188,9 +186,9 @@ textarea.input100 {
   height: 50px;
   border-radius: 25px;
   background: #846add;
-  font-size: 15px;
+  font-size: 1.2em;
   line-height: 1.5;
-  color: #fff;
+  color: #b9b8d9;
   display: -webkit-box;
   display: -webkit-flex;
   display: -moz-box;
@@ -207,7 +205,8 @@ textarea.input100 {
 }
 
 .contact100-form-btn:hover {
-  background: #333333;
+  color: white;
+  background: #ff3aaa;
 }
 
 

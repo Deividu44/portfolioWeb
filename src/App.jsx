@@ -6,8 +6,9 @@ import About from './components/About'
 import Educacion from './components/Educacion'
 import Skills from './components/Skills'
 import Contendor from './components/Contenedor'
-import './App.css'
 import Contacto from './components/Contacto'
+import Proyectos from './components/Proyectos'
+import './App.css'
 
 function App () {
   const [information, setInformation] = useState([])
@@ -21,9 +22,10 @@ function App () {
   const contenedores = [
     <Presentacion key={1} socials={information.socials} />,
     <About key={2} />,
-    <Educacion key={3} courses={information.courses} />,
-    <Skills key={4} skills={information.skills} />,
-    <Contacto key={5} />
+    <Proyectos key={3} />,
+    <Educacion key={4} courses={information.courses} />,
+    <Skills key={5} skills={information.skills} />,
+    <Contacto key={6} />
   ]
 
   return (
