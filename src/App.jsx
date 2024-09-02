@@ -22,7 +22,7 @@ function App () {
   const contenedores = [
     <Presentacion key={1} socials={information.socials} />,
     <About key={2} />,
-    <Proyectos key={3} />,
+    <Proyectos key={3} projects={information.projects} />,
     <Educacion key={4} courses={information.courses} />,
     <Skills key={5} skills={information.skills} />,
     <Contacto key={6} />

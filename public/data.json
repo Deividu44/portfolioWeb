@@ -56,6 +56,27 @@
       "urlCertificate": "./CertificadoGS_DAM.pdf"
     }
   ],
+  "projects": [
+    {
+      "id": 1,
+      "image": "https://d33wubrfki0l68.cloudfront.net/66c31a3f642b6d000859101b/screenshot_2024-08-19-10-11-50-0000.webp",
+      "alt": "Imagen de la portada del portoflio web",
+      "urlProject": "https://davidcastanera.netlify.app/",
+      "titleProject": "Este mismo portfolio",
+      "descriptionProject": "Portfolio de desarrollador web",
+      "resources": ["react", "bootstrap"]
+    },
+    {
+      "id": 2,
+      "image": "./apv_image.png",
+      "alt": "Imagen de inicio de sesión de la aplicación",
+      "urlProject": "https://apv-frontend-xi-seven.vercel.app/",
+      "titleProject": "Administrador Pacientes de Veterinaria",
+      "descriptionProject": "Aplicación para gestión de pacientes de mascotas",
+      "resources": ["react", "tailwind", "nodejs", "mongodb"]
+    }
+
+  ],
   "skills": [
     {
       "titleSkills": "Lenguajes de programación",
