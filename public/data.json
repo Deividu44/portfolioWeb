@@ -22,15 +22,23 @@
   "courses": [
     {
       "id": 1,
+      "title": "Fullstack GraphQL",
+      "entity": "Universidad de Helsinki",
+      "date": "08/2024 - 09/2024",
+      "hours": 32,
+      "urlCertificate": "https://studies.cs.helsinki.fi/stats/api/certificate/fs-graphql/en/f77fb88f420abd2c85ce40dbbef5e433"
+    },
+    {
+      "id": 2,
       "title": "Curso de desarrollo web Fullstack Open",
       "entity": "Universidad de Helsinki",
-      "date": "05/2024 - En desarrollo",
+      "date": "05/2024 - 07/2024",
       "hours": 135,
       "urlCertificate": "https://studies.cs.helsinki.fi/stats/api/certificate/fullstackopen/en/6d2ae6c97407eba8413ae74693cd58c5"
     },
 
     {
-      "id": 2,
+      "id": 3,
       "title": "Curso de JavaScript web Moderno",
       "entity": "Udemy",
       "date": "01/2024 - 03/2024",
@@ -39,7 +47,7 @@
     },
 
     {
-      "id": 3,
+      "id": 4,
       "title": "Curso de Angular 11: Ampliando conceptos",
       "entity": "Open Webinars",
       "date": "08/2024 - 08/2024",
@@ -48,7 +56,7 @@
     },
 
     {
-      "id": 4,
+      "id": 5,
       "title": "Grado Superior Desarrollo de Aplicaciones Multiplataforma",
       "entity": "CPIFP Los Enlaces",
       "date": "09/2018 - 09/2020",
